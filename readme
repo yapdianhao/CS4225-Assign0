@@ -1,5 +1,9 @@
 ############### Assignment 0: Hadoop Test #####################
 
+This repo is just a sample submission of Assignment 0.
+If you are here to find answers for Assignment 1, you may want to reconsider your google searching result.
+Alternatively, paylah me $20 for Assignment 1 answers.
+
 Use scripts to compile and submit your codes
 $ ./compile_run		# compile and run your code on sample dataset, check the result
 $ ./submit		# submit your codes (You can submit multiple times before due time)
